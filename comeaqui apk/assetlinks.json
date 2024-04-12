@@ -1,8 +1,0 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "app.netlify.comeaqui.twa",
-        "sha256_cert_fingerprints": ["91:B5:D8:99:94:49:AE:DD:1B:B0:65:07:D0:D0:05:8C:84:A4:42:63:EB:D6:6C:25:74:DE:82:01:BC:A3:0F:4E"]
-      }
-    }]
